@@ -1,10 +1,9 @@
 body {
-  display: block;
   background-color: #5ba473;
 }
 
 div {
-  background-color: red;
+  background-color: #FF0000;
 }
 
 h1 {
