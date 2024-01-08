@@ -1,1 +1,4 @@
-
+.maintext {
+	display: flex;
+	background-color: green;	
+}
